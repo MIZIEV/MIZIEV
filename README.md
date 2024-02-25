@@ -28,8 +28,8 @@ Hi 👋, I'm Olexandr</h1>
 <h3 align="left">Tools:</h3>
 <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> 
 <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> 
-<img src="https://github.com/MIZIEV/MIZIEV/assets/52121473/4f44d0b4-ac4b-48fc-abe9-1fbf3b00d416" alt="VSCODE" width="40" height="40"/></a> <a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer"> <img src="https://github.com/MIZIEV/MIZIEV/assets/52121473/935e571e-cb5a-4a42-abb9-55ef224ef211" alt="IntelliJ IDEA" width="40" height="40"/></a> <a href="https://www.mysql.com/products/workbench/" target="_blank" rel="noreferrer"> <img src="https://github.com/MIZIEV/MIZIEV/assets/52121473/6378a326-7ca3-4296-90d3-f6985fd7ef6a" alt="Mysql workbench" width="40" height="40"/></a><a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
-<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> 
+<img src="https://github.com/MIZIEV/MIZIEV/assets/52121473/4f44d0b4-ac4b-48fc-abe9-1fbf3b00d416" alt="VSCODE" width="40" height="40"/></a> <a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer"> <img src="https://github.com/MIZIEV/MIZIEV/assets/52121473/935e571e-cb5a-4a42-abb9-55ef224ef211" alt="IntelliJ IDEA" width="40" height="40"/></a> <a href="https://www.mysql.com/products/workbench/" target="_blank" rel="noreferrer"> <img src="https://github.com/MIZIEV/MIZIEV/assets/52121473/6378a326-7ca3-4296-90d3-f6985fd7ef6a" alt="Mysql workbench" width="40" height="40"/></a><a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> 
+<a href="https://www.postman.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/MIZIEV/MIZIEV/assets/52121473/5e254721-cc70-41c4-957d-40485cbeb9c6" alt="postman" width="40" height="40"/> </a> 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -37,7 +37,7 @@ Hi 👋, I'm Olexandr</h1>
 <a href="https://instagram.com/miziev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="miziev" height="30" width="40" /></a>
 </p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=miziev&" alt="miziev" /></p> <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=miziev&show_icons=true&locale=en" alt="miziev" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=miziev&show_icons=true&locale=en" alt="miziev" /></p>
 
 
 
