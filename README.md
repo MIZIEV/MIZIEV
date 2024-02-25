@@ -1,4 +1,4 @@
-![image](https://github.com/MIZIEV/MIZIEV/assets/52121473/d43c5e3b-ea0c-4d18-9dea-a1990763c838)<h1 align="center">Hi 👋, I'm Olexandr</h1>
+Hi 👋, I'm Olexandr</h1>
 <h3 align="center">Full stack developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=miziev&label=Profile%20views&color=0e75b6&style=flat" alt="miziev" /> </p>
