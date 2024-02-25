@@ -33,8 +33,8 @@ Hi 👋, I'm Olexandr</h1>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/олександр мізєв" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="олександр мізєв" height="30" width="40" /></a>
-<a href="https://instagram.com/miziev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="miziev" height="30" width="40" /></a>
+<a href="www.linkedin.com/in/олександр-мізєв-312835209" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="олександр мізєв" height="30" width="40" /></a>
+<a href="https://www.instagram.com/olexandr_miziev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="miziev" height="30" width="40" /></a>
 </p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=miziev&show_icons=true&locale=en" alt="miziev" /></p>
