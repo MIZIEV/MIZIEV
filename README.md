@@ -37,15 +37,7 @@ Hi 👋, I'm Olexandr</h1>
 <a href="https://instagram.com/miziev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="miziev" height="30" width="40" /></a>
 </p>
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=miziev&" alt="miziev" /></p> <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=miziev&show_icons=true&locale=en" alt="miziev" /></p>
 
 
 
-
-
-
-
-
-
-
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=miziev&" alt="miziev" /></p>
